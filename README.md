@@ -1,2 +1,2 @@
 # go-umbrella
-Simple, tiny logic system with HTTP endpoints
+Login system for HTTP endpoints
